@@ -1,7 +1,6 @@
 # Workshop 03 – Express.js Server
 
-Tämä projekti on toteutettu osana Laurean Full Stack ‑opintoja.  
-Tehtävänä oli rakentaa Express.js‑palvelin, joka palvelee staattisia HTML‑sivuja ja tarjoaa API‑endpointteja.
+Workshop 03:en ehtävänä oli rakentaa Express.js‑palvelin, joka palvelee staattisia HTML‑sivuja ja tarjoaa API‑endpointteja.
 
 ## ✔️ Toteutetut ominaisuudet
 
